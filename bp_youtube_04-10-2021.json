@@ -1,1 +1,17 @@
-{"UCDF5L3HOcjT1pDdgbnD9ABA": {"channel_info": {"channel_name": "Kripto Kurdu", "channel_id": "UCDF5L3HOcjT1pDdgbnD9ABA"}, "videos": [{"video_id": "JfJCd1OIIdc", "title": "Solana SOLARAMY Nft Sat\u0131\u015f\u0131 Canl\u0131 Solana Nftleri Nas\u0131l Al\u0131n\u0131r Nedir Genel Sohbet", "thumbnail": "https://i.ytimg.com/vi/JfJCd1OIIdc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCSla8P9b4R4rwcasHuxElKIN4aQ", "upload_date": "29-09-2021", "swf": "13623406565d6cdb4f879d92ce8118be.mp3"}, {"video_id": "JfJCd1OIIdc", "title": "Solana SOLARAMY Nft Sat\u0131\u015f\u0131 Canl\u0131 Solana Nftleri Nas\u0131l Al\u0131n\u0131r Nedir Genel Sohbet", "thumbnail": "https://i.ytimg.com/vi/JfJCd1OIIdc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCSla8P9b4R4rwcasHuxElKIN4aQ", "upload_date": "29-09-2021", "swf": "13623406565d6cdb4f879d92ce8118be.mp3"}, {"video_id": "JfJCd1OIIdc", "title": "Solana SOLARAMY Nft Sat\u0131\u015f\u0131 Canl\u0131 Solana Nftleri Nas\u0131l Al\u0131n\u0131r Nedir Genel Sohbet", "thumbnail": "https://i.ytimg.com/vi/JfJCd1OIIdc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCSla8P9b4R4rwcasHuxElKIN4aQ", "upload_date": "29-09-2021", "swf": "13623406565d6cdb4f879d92ce8118be.mp3"}]}, "UCjemQfjaXAzA-95RKoy9n_g": {"channel_info": {"channel_name": "BitBoy Crypto", "channel_id": "UCjemQfjaXAzA-95RKoy9n_g"}, "videos": [{"video_id": "UNtnPCPavgU", "title": "Plan B Supports Bull Market Continuation! ($63000 Bitcoin Target Imminent)", "thumbnail": "https://i.ytimg.com/vi/UNtnPCPavgU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcMtbNHqYzbgB09MdHwxRN4APKJQ", "upload_date": "01-10-2021", "swf": "72952a31e33f8083641541975239f743.mp3"}, {"video_id": "UNtnPCPavgU", "title": "Plan B Supports Bull Market Continuation! ($63000 Bitcoin Target Imminent)", "thumbnail": "https://i.ytimg.com/vi/UNtnPCPavgU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcMtbNHqYzbgB09MdHwxRN4APKJQ", "upload_date": "01-10-2021", "swf": "72952a31e33f8083641541975239f743.mp3"}, {"video_id": "UNtnPCPavgU", "title": "Plan B Supports Bull Market Continuation! ($63000 Bitcoin Target Imminent)", "thumbnail": "https://i.ytimg.com/vi/UNtnPCPavgU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcMtbNHqYzbgB09MdHwxRN4APKJQ", "upload_date": "01-10-2021", "swf": "72952a31e33f8083641541975239f743.mp3"}]}}
+{
+   "channel_id":{
+      "channel_info":{
+         "channel_name":"CHANNEL NAME",
+         "channel_id":"CHANNEL ID"
+      },
+      "videos":[
+         {
+            "video_id":"VIDEO ID 1",
+            "title":"TITLE 1",
+            "thumbnail":"https://thumbnail.com/1",
+            "upload_date":"01-01-2021",
+            "swf":"swf1.mp3"
+         },
+      ]
+   }
+}
